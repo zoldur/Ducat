@@ -4,8 +4,8 @@ Shell script to install a [Ducat Masternode](https://www.ducatcoin.io/) on a Lin
 
 ## Installation
 ```
-wget -q https://raw.githubusercontent.com/zoldur/Ducat/master/Ducat_install.sh
-bash Ducat_install.sh
+wget -q https://raw.githubusercontent.com/zoldur/Ducat/master/ducat_install.sh
+bash ducat_install.sh
 ```
 ***
 
