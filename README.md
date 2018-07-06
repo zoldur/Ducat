@@ -54,6 +54,14 @@ systemctl is-enabled Ducat #To check if Ducat service is enabled on boot
 ```  
 ***
 
+## Running multile nodes on the same server:
+
+As it takes, run the script and follow the instructions:
+```
+wget -N https://raw.githubusercontent.com/zoldur/Ducat/master/ducat_add.sh
+bash ducat_add.sh
+```
+
 ## Donations
 
 Any donation is highly appreciated
