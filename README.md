@@ -59,6 +59,7 @@ systemctl is-enabled Ducat #To check if Ducat service is enabled on boot
 As it takes, run the script and follow the instructions:
 ```
 wget -N https://raw.githubusercontent.com/zoldur/Ducat/master/ducat_add.sh
+chmod +x ducat_add.sh
 ./ducat_add.sh mn2
 ```
 
