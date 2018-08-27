@@ -65,10 +65,10 @@ chmod +x ducat_add.sh
 ***
 
 ## Masternode update:
-In order to update your Ducat Masternode to version 1.1.2, please run the following commands:
+In order to update your Ducat Masternode to version 1.2.0, please run the following commands:
 ```
 cd /tmp
-wget -N https://github.com/zoldur/Ducat/releases/download/v1.1.2.0/ducat.tar.gz
+wget -N https://github.com/zoldur/Ducat/releases/download/v1.2.0.0/ducat.tar.gz
 tar xvzf ducat.tar.gz
 systemctl stop Ducat
 mv ducatd /usr/local/bin
@@ -82,6 +82,6 @@ Open your desktop wallet and restart your node(s).
 
 Any donation is highly appreciated
 
-**BTC**: 3MQLEcHXVvxpmwbB811qiC1c6g21ZKa7Jh  
-**ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E  
+**BTC**: 3MQLEcHXVvxpmwbB811qiC1c6g21ZKa7Jh
+**ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E
 **LTC**: LNZpK4rCd1JVSB3rGKTAnTkudV9So9zexB
